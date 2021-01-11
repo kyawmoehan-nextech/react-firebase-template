@@ -1,0 +1,13 @@
+.back-btn {
+  border: none;
+  background: #4167d6;
+  color: #fff;
+  padding: 5px 20px;
+  border-radius: 5px;
+}
+.back-btn i {
+  padding-right: 5px;
+}
+#product-create-form {
+  margin-top: 30px;
+}

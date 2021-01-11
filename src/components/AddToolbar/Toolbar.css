@@ -1,0 +1,14 @@
+.text-link {
+  background: #4e73df;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  transition: all 0.4s;
+}
+.text-link:hover {
+  color: #ddd;
+  text-decoration: none;
+}
+.text-link i {
+  padding-right: 5px;
+}
